@@ -1,4 +1,3 @@
-<p align="center"><img src="https://i.imgur.com/hNCn9Yh.png" /></p>
 > Terraform module for simplified management of Shared Storage servers using Amazon EFS
 
 <p align="center">
